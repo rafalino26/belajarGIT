@@ -6,5 +6,13 @@ Daftar tugas / branch
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
 Daftar perintah GiT
-…
+git branch (nama branch)
+git checkout (nama branch)
+Touch (nama file).txt 
+git add (nama file).txt
+git commit -m "Add (nama file).txt"
+git checkout main
+git merge branch
+git push origin main
